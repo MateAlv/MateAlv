@@ -2,8 +2,8 @@
 Desarrollador en tiempo completo y Estudiante de Ingeniería en Informática.
 
 > Trabajo:
-+ Analista de Desarrollo en Disprofarma
-+ Av. Castañares 3222
++ LUCAI - Desarrollo de IA y soporte de infraestructura HPC
++ FCEN UBA
 
 > Estudio:
 + Facultad de Ingeniería de la Universidad de Buenos Aires
